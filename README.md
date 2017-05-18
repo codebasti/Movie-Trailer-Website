@@ -3,7 +3,7 @@
 This project contains a server side programm, that puts out a website to show my personal, favorite movies, aswell as their poster and Trailer. It was made within Udacity's Full-Stack Developer Nanodegree.
 
 
-## Installation
+## Install and run
 1. Install python v. 2.7 or later (https://www.python.org/downloads/)
 2. Download the repository via git or zip-file (https://github.com/codebasti/Movie-Trailer-Website/)
 3. Open your command line interface (cmd on windows) and navigate to the folder you downloaded.
