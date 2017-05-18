@@ -21,5 +21,5 @@ If you click on one of the movie posters, the server should load its trailer in 
 The trailers are just linked youtube-videos.
 The poster are linked pictures, located at wikipedia.
 
-##Known Bugs
+## Known Bugs
 None so far - Please send a message to basti.puetz@web.de if you find one.
